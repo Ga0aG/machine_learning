@@ -1,8 +1,3 @@
-'''
-linear_regression.py是用(x,y)一个点一个点地训练w,b,我不理解
-这样做训练到后面w,b的值还是在浮动
-
-'''
 
 import tensorflow as tf
 import numpy as np
